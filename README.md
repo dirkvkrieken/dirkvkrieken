@@ -1,3 +1,3 @@
 Hello World!
 
-I am building a business online. 
+I am building an online business. 
