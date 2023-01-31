@@ -1,3 +1,3 @@
 Hello World!
 
-I am building an online business. 
+I am a copywriter who also learns how to build websites and apps.
