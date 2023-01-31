@@ -1,4 +1,3 @@
 Hello World!
 
-[linktr.ee/dirkvkrieken](https://linktr.ee/dirkvkrieken)
-
+I am building a business online. 
