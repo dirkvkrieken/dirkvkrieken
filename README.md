@@ -1,3 +1,5 @@
 Hello World!
 
-I am a copywriter who also learns how to build websites and apps.
+I am an entrepreneur and copywriter.
+
+Here you can find some of my coding projects.
