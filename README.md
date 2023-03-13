@@ -1,3 +1,5 @@
 Hello World!
 
-Here you can find some of my coding projects.
+I am a writer and entrepreneur.
+I write about technology, AI, business, entrepreneurship, and more.
+I also like building things on the web.
